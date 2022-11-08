@@ -1,0 +1,6 @@
+mtuq.Misfit.collect_attributes
+==============================
+
+.. currentmodule:: mtuq
+
+.. automethod:: Misfit.collect_attributes

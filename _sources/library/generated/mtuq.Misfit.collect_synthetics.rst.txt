@@ -1,0 +1,6 @@
+mtuq.Misfit.collect_synthetics
+==============================
+
+.. currentmodule:: mtuq
+
+.. automethod:: Misfit.collect_synthetics
